@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
+	<!-- 
     Microsoft ResX Schema 
     
     Version 2.0
@@ -59,122 +59,125 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="EditXmlCancelButton" xml:space="preserve">
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="EditXmlCancelButton" xml:space="preserve">
     <value>Отмена</value>
   </data>
-  <data name="EditXmlCancelButtonAccessKey" xml:space="preserve">
+	<data name="EditXmlCancelButtonAccessKey" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="EditXmlFileLabel" xml:space="preserve">
+	<data name="EditXmlFileLabel" xml:space="preserve">
     <value>Файл данных XML</value>
   </data>
-  <data name="EditXmlSettingsLabel" xml:space="preserve">
+	<data name="EditXmlSettingsLabel" xml:space="preserve">
     <value>Выберите файлы XML и XSL </value>
   </data>
-  <data name="EditXmlUpdateButton" xml:space="preserve">
+	<data name="EditXmlUpdateButton" xml:space="preserve">
     <value>Обновить</value>
   </data>
-  <data name="EditXmlUpdateButtonAccessKey" xml:space="preserve">
+	<data name="EditXmlUpdateButtonAccessKey" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="EditXslFileLabel" xml:space="preserve">
+	<data name="EditXslFileLabel" xml:space="preserve">
     <value>Файл XSL Transform</value>
   </data>
-  <data name="XmlEditButton" xml:space="preserve">
+	<data name="XmlEditButton" xml:space="preserve">
     <value>Изменить</value>
   </data>
-  <data name="XmlNoFileSelected" xml:space="preserve">
+	<data name="XmlNoFileSelected" xml:space="preserve">
     <value>Файл не выбран</value>
   </data>
-  <data name="XmlXslFeatureName" xml:space="preserve">
+	<data name="XmlXslFeatureName" xml:space="preserve">
     <value>XML/XSL</value>
   </data>
-  <data name="AllowExternalImages" xml:space="preserve">
+	<data name="AllowExternalImages" xml:space="preserve">
     <value>Разрешить внешние изображения?</value>
   </data>
-  <data name="CustomCssClassSetting" xml:space="preserve">
+	<data name="CustomCssClassSetting" xml:space="preserve">
     <value>Особый класс CSS </value>
   </data>
-  <data name="CustomCssClassSettingRegexWarning" xml:space="preserve">
+	<data name="CustomCssClassSettingRegexWarning" xml:space="preserve">
     <value>Неверный особый класс CSS</value>
   </data>
-  <data name="GenericError" xml:space="preserve">
+	<data name="GenericError" xml:space="preserve">
     <value>Произошла ошибка при обработке  Xml с Xsl. Проверьте журнал(лог) для просмотра подробностей или сообщите администратору.</value>
   </data>
-  <data name="TrustContent" xml:space="preserve">
+	<data name="TrustContent" xml:space="preserve">
     <value>Полностью доверять контенту?</value>
   </data>
-  <data name="Upload" xml:space="preserve">
+	<data name="Upload" xml:space="preserve">
     <value>Загрузка</value>
   </data>
-  <data name="UploadExtensionWarning" xml:space="preserve">
+	<data name="UploadExtensionWarning" xml:space="preserve">
     <value>Разрешены только файлы .xml и .xsl.</value>
   </data>
-  <data name="UploadXmlXsl" xml:space="preserve">
+	<data name="UploadXmlXsl" xml:space="preserve">
     <value>Загрузить Xml или Xsl</value>
   </data>
-  <data name="XmlUrl" xml:space="preserve">
+	<data name="XmlUrl" xml:space="preserve">
     <value>Xml Url</value>
   </data>
-  <data name="XslUrl" xml:space="preserve">
+	<data name="XslUrl" xml:space="preserve">
     <value>Xsl Url</value>
   </data>
+	<data name="DropFile" xml:space="preserve">
+		<value>Перетащите и drop XML- или xsl файл здесь, или нажмите кнопку, чтобы выбрать файл</value>
+	</data>
 </root>
