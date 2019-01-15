@@ -16,7 +16,7 @@ We need translators for this project. If you are fluent in a language other than
 | el | Greek | 
 | es-ES | Spanish | Spain |
 | es-MX | Spanish | Mexico |
-| fa | Persian | 
+| fa | Persian | Iran |
 | fo | Faroese |
 | fr | French | France |
 | fr-CA | French | Canada |
