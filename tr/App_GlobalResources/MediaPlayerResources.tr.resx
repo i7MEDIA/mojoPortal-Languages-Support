@@ -117,215 +117,215 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddFileValidationSummaryHeaderText" xml:space="preserve">
-    <value>Unable to add the file</value>
+<data name="AddFileValidationSummaryHeaderText" xml:space="preserve">
+    <value>Dosya eklenemiyor</value>
   </data>
   <data name="AddMediaFileLinkButtonText" xml:space="preserve">
-    <value>Add Selected File</value>
+    <value>Seçili Dosyayı Ekle</value>
   </data>
   <data name="AddTrackButtonText" xml:space="preserve">
-    <value>Add Track</value>
+    <value>Parça Ekle</value>
   </data>
   <data name="AddTrackFieldsetLabel" xml:space="preserve">
-    <value>Add Media Track</value>
+    <value>Medya Parçası Ekle</value>
   </data>
   <data name="AddTrackValidationSummaryHeaderText" xml:space="preserve">
-    <value>Unable to add the Track</value>
+    <value>Parça eklenemiyor</value>
   </data>
   <data name="ArtistRequiredValidatorErrorMessage" xml:space="preserve">
-    <value>Please enter an Artist</value>
+    <value>Lütfen bir Sanatçı girin</value>
   </data>
   <data name="AtLeastOneFileSelectedValidatorErrorMessage" xml:space="preserve">
-    <value>Please add at least one file</value>
+    <value>Lütfen en az bir dosya ekleyin</value>
   </data>
   <data name="AutoStartSetting" xml:space="preserve">
-    <value>Auto Start</value>
+    <value>Otomatik başlatma</value>
   </data>
   <data name="CancelButtonText" xml:space="preserve">
-    <value>Cancel/Finished</value>
+    <value>İptal Et/Bitir</value>
   </data>
   <data name="CancelButtonTooltip" xml:space="preserve">
-    <value>Cancel The Edit Of This Track</value>
+    <value>Bu Parçanın Düzenlemesini İptal Et</value>
   </data>
   <data name="ContinuousPlaySetting" xml:space="preserve">
-    <value>Continuous Play</value>
+    <value>Sürekli Oynatma</value>
   </data>
   <data name="DeleteFileConfirmationDialogText" xml:space="preserve">
-    <value>Are you sure you want to delete {0}?</value>
+    <value>{0} 'ı silmek istediğinizden emin misiniz?</value>
   </data>
   <data name="DeleteFileLinkButtonText" xml:space="preserve">
-    <value>Delete</value>
+    <value>Sil</value>
   </data>
   <data name="DeleteFileLinkButtonTooltip" xml:space="preserve">
-    <value>Delete This File</value>
+    <value>Bu Dosyayı Sil</value>
   </data>
   <data name="DeleteTrackButtonText" xml:space="preserve">
-    <value>Delete Track</value>
+    <value>Parçayı Sil</value>
   </data>
   <data name="DeleteTrackButtonTooltip" xml:space="preserve">
-    <value>Delete This Track</value>
+    <value>Bu Parçayı Sil</value>
   </data>
   <data name="DeleteTrackConfirmationDialogText" xml:space="preserve">
-    <value>Are you sure you want to delete this track?</value>
+    <value>Bu parçayı silmek istediğinizden emin misiniz?</value>
   </data>
   <data name="DisableShuffleSetting" xml:space="preserve">
-    <value>Disable Shuffle</value>
+    <value>Karıştırmayı Devre Dışı Bırak</value>
   </data>
   <data name="EditAudioPlayerArtistLabel" xml:space="preserve">
-    <value>Artist</value>
+    <value>Sanatçı</value>
   </data>
   <data name="EditAudioPlayerLinkText" xml:space="preserve">
-    <value>Edit Player</value>
+    <value>Oynatıcıyı Düzenle</value>
   </data>
   <data name="EditAudioPlayerPageHeaderText" xml:space="preserve">
-    <value>Edit Media Player</value>
+    <value>Media Player'ı Düzenle</value>
   </data>
   <data name="EditAudioPlayerTrackNameLabel" xml:space="preserve">
-    <value>Track Name</value>
+    <value>Parça Adı</value>
   </data>
   <data name="EditMediaTrackPageTitleText" xml:space="preserve">
-    <value>Edit Media Track</value>
+    <value>Medya Parçasını Düzenle</value>
   </data>
   <data name="EditTrackHyperLinkText" xml:space="preserve">
-    <value>Edit</value>
+    <value>Düzenle</value>
   </data>
   <data name="EditTrackHyperLinkToolTip" xml:space="preserve">
-    <value>Edit The Track</value>
+    <value>Parçayı Düzenleyin</value>
   </data>
   <data name="EditTrackPageHeaderText" xml:space="preserve">
-    <value>Edit Track</value>
+    <value>Parçayı Düzenle</value>
   </data>
   <data name="FileHeaderTextSiteLabel" xml:space="preserve">
-    <value>Current File(s)</value>
+    <value>Mevcut Dosya (lar)</value>
   </data>
   <data name="FileNameGridViewHeaderSiteLabelText" xml:space="preserve">
-    <value>File Name</value>
+    <value>Dosya adı</value>
   </data>
   <data name="FileTypeAlreadyExistsErrorText" xml:space="preserve">
-    <value>A file with the extension of {0} already exists.</value>
+    <value>{0} uzantılı bir dosya zaten var.</value>
   </data>
   <data name="FullScreenText" xml:space="preserve">
-    <value>Full Screen</value>
+    <value>Tam ekran</value>
   </data>
   <data name="InvalidAudioFileErrorMessage" xml:space="preserve">
-    <value>Only valid audio format files allowed</value>
+    <value>Yalnızca geçerli ses biçimi dosyalarına izin verilir</value>
   </data>
   <data name="InvalidVideoFileErrorMessage" xml:space="preserve">
-    <value>Only valid video format files allowed</value>
+    <value>Yalnızca geçerli video format dosyalarına izin verilir</value>
   </data>
   <data name="ManageMediaFilesFieldsetLabel" xml:space="preserve">
-    <value>Manage Media Files</value>
+    <value>Medya Dosyalarını Yönetin</value>
   </data>
   <data name="ManageTracksFieldSetLabel" xml:space="preserve">
-    <value>Manage Media Tracks</value>
+    <value>Medya Parçalarını Yönetin</value>
   </data>
   <data name="MaxVolumeText" xml:space="preserve">
-    <value>Max Volume</value>
+    <value>Son ses</value>
   </data>
   <data name="MediaFileBrowserLinkText" xml:space="preserve">
-    <value>Browse...</value>
+    <value>Gözat...</value>
   </data>
   <data name="MediaFileRegularExpValidatorErrorMessage" xml:space="preserve">
-    <value>Please select a supported file format</value>
+    <value>Lütfen desteklenen bir dosya biçimi seçin</value>
   </data>
   <data name="MediaFileRequiredValidatorErrorMessage" xml:space="preserve">
-    <value>Please select or enter a Media File</value>
+    <value>Lütfen bir Medya Dosyası seçin veya girin</value>
   </data>
   <data name="MediaTrackPropertiesFieldsetLabel" xml:space="preserve">
-    <value>Media Track Properties</value>
+    <value>Medya İzleme Özellikleri</value>
   </data>
   <data name="ModuleName" xml:space="preserve">
     <value>Media Player</value>
   </data>
   <data name="MoveTrackDownButtonText" xml:space="preserve">
-    <value>Down</value>
+    <value>Aşağı</value>
   </data>
   <data name="MoveTrackDownOrderTooltip" xml:space="preserve">
-    <value>Move Track Down In Playlist Order</value>
+    <value>Parçayı Çalma Listesi Sırasında Aşağı Taşı</value>
   </data>
   <data name="MoveTrackUpButtonText" xml:space="preserve">
-    <value>Up</value>
+    <value>Yukarı</value>
   </data>
   <data name="MoveTrackUpOrderTooltip" xml:space="preserve">
-    <value>Move Track Up In Playlist Order</value>
+    <value>Parçayı Oynatma Listesi Sırasında Yukarı Taşı</value>
   </data>
   <data name="MuteText" xml:space="preserve">
-    <value>Mute</value>
+    <value>Sessize Al</value>
   </data>
   <data name="NextButtonText" xml:space="preserve">
-    <value>Next</value>
+    <value>İleri</value>
   </data>
   <data name="NextText" xml:space="preserve">
-    <value>Next</value>
+    <value>İleri</value>
   </data>
   <data name="NoFilesSiteLabel" xml:space="preserve">
-    <value>No Files Exist For This Track</value>
+    <value>Bu Parça İçin Dosya Yok</value>
   </data>
   <data name="NoFilesSiteLabelText" xml:space="preserve">
-    <value>No file(s) exist for this track</value>
+    <value>Bu parça için dosya yok</value>
   </data>
   <data name="NoSolutionMessageMarkup" xml:space="preserve">
-    <value>&lt;span&gt;Update Required&lt;/span&gt; To play the media you will need to either update your browser to a recent version or update your &lt;a href="http://get.adobe.com/flashplayer/" target="_blank"&gt;Flash plugin&lt;/a&gt;.</value>
+    <value>&lt;span&gt; Güncelleme Gerekiyor &lt;/span&gt; Medyayı oynatmak için tarayıcınızı yeni bir sürüme güncellemeniz veya &lt;a href = "http://get.adobe.com/flashplayer/" target = "_blank"güncellemeniz gerekir "&gt; Flash eklentisi &lt;/a&gt;.</value>
   </data>
   <data name="NoTracksSiteLabelText" xml:space="preserve">
-    <value>No Tracks Exist For This Media Player</value>
+    <value>Bu Medya Oynatıcı için Parça Yok</value>
   </data>
   <data name="PauseText" xml:space="preserve">
-    <value>Pause</value>
+    <value>Duraklat</value>
   </data>
   <data name="PlaybackControlSection" xml:space="preserve">
-    <value>Playback Control</value>
+    <value>Oynatma Kontrolü</value>
   </data>
   <data name="PlayerSkinNotFoundErrorMessage" xml:space="preserve">
-    <value>The skin for the Media Player was unable to be loaded.</value>
+    <value>Media Player için dış görünüm yüklenemedi.</value>
   </data>
   <data name="PlayerTypeLabelText" xml:space="preserve">
-    <value>Media Type</value>
+    <value>Ortam türü</value>
   </data>
   <data name="PlayText" xml:space="preserve">
-    <value>Play</value>
+    <value>Oyna</value>
   </data>
   <data name="PreviousText" xml:space="preserve">
-    <value>Previous</value>
+    <value>Önceki</value>
   </data>
   <data name="RepeatOffText" xml:space="preserve">
-    <value>Repeat Off</value>
+    <value>Tekrar Kapalı</value>
   </data>
   <data name="RepeatText" xml:space="preserve">
-    <value>Repeat</value>
+    <value>Tekrar et</value>
   </data>
   <data name="RestoreScreenText" xml:space="preserve">
-    <value>Restore Screen</value>
+    <value>Ekranı Geri Yükle</value>
   </data>
   <data name="SelectedFilesSiteLabelText" xml:space="preserve">
-    <value>Files Added</value>
+    <value>Eklenen Dosyalar</value>
   </data>
   <data name="SelectFileSiteLabelText" xml:space="preserve">
-    <value>File Location</value>
+    <value>Dosya konumu</value>
   </data>
   <data name="SetupInstructionsSiteLabelText" xml:space="preserve">
-    <value>An instance of the Media Player can play either Audio files or Video files. As part of the initial setup of an instance of the Media Player, you must select which type of media it will play. Once you select the media type and click next, the type can not be changed for this instance (module).</value>
+    <value>Media Player'ın bir örneği, Ses dosyalarını veya Video dosyalarını oynatabilir. Bir Media Player örneğinin ilk kurulumunun bir parçası olarak, hangi tür medyayı oynatacağını seçmelisiniz. Ortam türünü seçip ileriye tıkladığınızda, bu örnek (modül) için tür değiştirilemez.</value>
   </data>
   <data name="SetupNeededLabel" xml:space="preserve">
-    <value>No file is available for play, set up is required first.</value>
+    <value>Oynatılacak dosya yok, önce kurulum gerekiyor.</value>
   </data>
   <data name="SetupPageHeaderText" xml:space="preserve">
-    <value>Media Player Setup</value>
+    <value>Media Player Kurulumu</value>
   </data>
   <data name="ShuffleOffText" xml:space="preserve">
-    <value>Shuffle Off</value>
+    <value>Karıştır Kapalı</value>
   </data>
   <data name="ShuffleText" xml:space="preserve">
-    <value>Shuffle</value>
+    <value>Karıştır</value>
   </data>
   <data name="StopText" xml:space="preserve">
-    <value>Stop</value>
+    <value>Durdur</value>
   </data>
   <data name="TrackArtistHeaderLabelText" xml:space="preserve">
-    <value>Artist(s)</value>
+    <value>Sanatçı (lar)</value>
   </data>
   <data name="TrackFilesHeaderLabelText" xml:space="preserve">
-    <value>Associated File(s)</value>
+    <value>İlişkili Dosyalar</value>
   </data>
   <data name="TrackNameHeaderLabelText" xml:space="preserve">
     <value>Track Name</value>
@@ -337,39 +337,39 @@
     <value>Track Order</value>
   </data>
   <data name="UnmuteText" xml:space="preserve">
-    <value>Unmute</value>
+    <value>Sesi Aç</value>
   </data>
   <data name="UpdateTrackButtonText" xml:space="preserve">
-    <value>Update Track Properties</value>
+    <value>Parça Özelliklerini Güncelle</value>
   </data>
   <data name="UpdateTrackButtonTooltip" xml:space="preserve">
-    <value>Update This Track's Properties</value>
+    <value>Bu Parçanın Özelliklerini Güncelle</value>
   </data>
   <data name="UpdateTrackValidationSummaryHeaderText" xml:space="preserve">
-    <value>The track could not be updated</value>
+    <value>Parça güncellenemedi</value>
   </data>
   <data name="ValidationErrorMarking" xml:space="preserve">
     <value>*</value>
   </data>
   <data name="CustomCssClassSetting" xml:space="preserve">
-    <value>Custom CSS Class</value>
+    <value>Özel CSS Sınıfı</value>
   </data>
   <data name="AudioPlayerFeatureName" xml:space="preserve">
-    <value>Audio Player</value>
+    <value>Ses oynatıcı</value>
   </data>
   <data name="VideoPlayerFeatureName" xml:space="preserve">
-    <value>Video Player</value>
+    <value>Video Oynatıcı</value>
   </data>
   <data name="MiscellaneousSection" xml:space="preserve">
-    <value>Miscellaneous</value>
+    <value>Çeşitli</value>
   </data>
   <data name="FooterContent" xml:space="preserve">
-    <value>Footer Content</value>
+    <value>Altbilgi İçeriği</value>
   </data>
   <data name="HeaderContent" xml:space="preserve">
-    <value>Header Content</value>
+    <value>Başlık İçeriği</value>
   </data>
   <data name="AllowFullScreen" xml:space="preserve">
-    <value>Allow Full Screen Playback?</value>
+    <value>Tam Ekran Oynatmaya İzin Verilsin mi?</value>
   </data>
 </root>
