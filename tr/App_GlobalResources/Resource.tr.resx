@@ -958,7 +958,7 @@
     <value>Sistem Bilgisi</value>
   </data>
   <data name="AdminMenuServerLocalTimeLabel" xml:space="preserve">
-    <value>Server Local Time</value>
+    <value>Sunucu Yerel Saati</value>
   </data>
   <data name="AdminMenuServerLogLabel" xml:space="preserve">
     <value>Sistem Kayıtları</value>
@@ -970,7 +970,7 @@
     <value>Server Saat Dilimi</value>
   </data>
   <data name="AdminMenuServerUtcOffsetLabel" xml:space="preserve">
-    <value>Server GMT Offset</value>
+    <value>Sunucu GMT Farkı</value>
   </data>
   <data name="AdminMenuSiteSettingsLink" xml:space="preserve">
     <value>Site Ayarları</value>
@@ -1003,13 +1003,13 @@
     <value>Üyeler Windows Live Messenger kullanabilsin?</value>
   </data>
   <data name="AllTimeRevenueFormatString" xml:space="preserve">
-    <value>Total Revenue {0}</value>
+    <value>Toplam Gelir {0}</value>
   </data>
   <data name="AlphaPagerChars" xml:space="preserve">
     <value>ABCDEFGHIJKLMNOPQRSTUVWXYZ</value>
   </data>
   <data name="AlreadyRegistered" xml:space="preserve">
-    <value>Kayıt oldunuz mu?</value>
+    <value>Zaten Kayıtlı mısınız?</value>
   </data>
   <data name="AlreadyRegisteredMessage" xml:space="preserve">
     <value>Zaten kaydınız var. Yeni hesap oluşturmak isterseniz öncelikle sistemden çıkın.</value>
@@ -1033,13 +1033,13 @@
     <value>Uygulama başladı.</value>
   </data>
   <data name="AppLogoForWindowsLive" xml:space="preserve">
-    <value>Logo to show on Windows Live Delegation Page</value>
+    <value>Windows Live Temsilci Sayfasında gösterilecek logo</value>
   </data>
   <data name="ApprovalProcessGridApprovalRequestByLabel" xml:space="preserve">
-    <value>Approval Requested By</value>
+    <value>Onay İsteyen</value>
   </data>
   <data name="ApprovalProcessGridApprovalRequestOnLabel" xml:space="preserve">
-    <value>Approval Requested On</value>
+    <value>Onay İstendiği Tarih</value>
   </data>
   <data name="ApprovalProcessGridModulesPublishedOnPagesLabel" xml:space="preserve">
     <value>İçeriğin yayınlanacağı sayfalar</value>
@@ -1048,22 +1048,22 @@
     <value>İçerik Başlığı</value>
   </data>
   <data name="ApprovalProcessGridRejectedByLabel" xml:space="preserve">
-    <value>Rejected By</value>
+    <value>Reddeden</value>
   </data>
   <data name="ApprovalProcessGridRejectedOnLabel" xml:space="preserve">
-    <value>Rejected On</value>
+    <value>Reddedilme Tarihi</value>
   </data>
   <data name="ApprovalProcessStatusAwaitingApproval" xml:space="preserve">
-    <value>Content Changes Awaiting Approval</value>
+    <value>Onay Bekleyen İçerik Değişiklikleri</value>
   </data>
   <data name="ApprovalProcessStatusDraft" xml:space="preserve">
     <value>Taslak</value>
   </data>
   <data name="ApprovalProcessStatusRejected" xml:space="preserve">
-    <value>Content Changes Rejected</value>
+    <value>Reddedilen İçerik Değişiklikleri</value>
   </data>
   <data name="ApproveContentToolTip" xml:space="preserve">
-    <value>Approve the changes made to this Content Instance</value>
+    <value>Bu İçerik Örneğinde yapılan değişiklikleri onaylayın</value>
   </data>
   <data name="ApprovedForLogin" xml:space="preserve">
     <value>Bu kullanıcının kaydını onaylıyor musunuz?</value>
@@ -1084,10 +1084,10 @@
     <value>Authorize.NET Log</value>
   </data>
   <data name="AuthorizeNetLogMethod" xml:space="preserve">
-    <value>Metot</value>
+    <value>Metod</value>
   </data>
   <data name="AuthorizeNetLogProviderName" xml:space="preserve">
-    <value>Provider Name</value>
+    <value>Sağlayıcı Adı</value>
   </data>
   <data name="AuthorizeNetLogReason" xml:space="preserve">
     <value>Sebep</value>
@@ -1099,7 +1099,7 @@
     <value>TransactionId</value>
   </data>
   <data name="AuthorizeNetLogTransactionType" xml:space="preserve">
-    <value>Transaction Type</value>
+    <value>Transaction Türü</value>
   </data>
   <data name="AvatarMaxSizeLabelFormat" xml:space="preserve">
     <value>{0}X{1} pixels</value>
@@ -1114,13 +1114,13 @@
     <value>User Upload</value>
   </data>
   <data name="AvatarTypeNone" xml:space="preserve">
-    <value>None</value>
+    <value>Yok</value>
   </data>
   <data name="AwaitingApprovalHeading" xml:space="preserve">
     <value>İçerik onay bekliyor.</value>
   </data>
   <data name="AwaitingApprovalIntroduction" xml:space="preserve">
-    <value>The following content has changes submitted and awaiting approval. To review the content changes, view at least one of the pages where the content has been published, and either click the green check button to approve, or the red minus button to reject the changes. If you choose to reject the changes, you will be given the option to add some comments. These comments will be visible to the author who posted the content changes for approval.</value>
+    <value>Aşağıdaki içerikte değişiklikler yapılmış ve onaylanmayı bekliyor. İçerik değişikliklerini incelemek için, içeriğin yayınlandığı sayfalardan en az birini görüntüleyin ve onaylamak için yeşil onay düğmesini veya değişiklikleri reddetmek için kırmızı eksi düğmesini tıklayın. Değişiklikleri reddetmeyi seçerseniz, bazı yorumlar ekleme seçeneğiniz olacaktır. Bu yorumlar, onay için içerik değişikliklerini yayınlayan yazar tarafından görülecektir.</value>
   </data>
   <data name="BannedIPAddressDeleteConfirmMessage" xml:space="preserve">
     <value>Bu IP adresini silmek istediğinizden emin misiniz? Sildiğiniz takdirde yasaklılık durumu kalkar.</value>
@@ -1411,7 +1411,7 @@
     <value>E-Ticaret</value>
   </data>
   <data name="CommerceTestModeWarning" xml:space="preserve">
-    <value>E-Ticaret deneme aşamasındadır. Test kredi kart numarasını kullanın. Şarj işlemi gerçekleşmeyecektir.</value>
+    <value>E-Ticaret deneme aşamasındadır. Test kredi kart numarasını kullanın. Ödeme işlemi gerçekleşmeyecektir.</value>
   </data>
   <data name="CompareDraftToLiveLink" xml:space="preserve">
     <value>Taslağı gerçekle karşılaştırın.</value>
@@ -1810,7 +1810,7 @@
     <value>Özel CSS Class</value>
   </data>
   <data name="CustomMachineKeyInstructions" xml:space="preserve">
-    <value>You should replace the machine key in the Web.config file in the root of this web site with a randomly generated one. You can copy the generated one from above. Note that if you have configured the site to use encrypted passwords, you should change back to clear text passwords, then change the machine key then change back to encrypted passwords because the machine key is used for encrypting passwords. Note also that when you change the machine key it will log out all users and they will need to login again.</value>
+    <value>Bu web sitesinin kök dizinindeki Web.config dosyasındaki makine anahtarını rastgele oluşturulmuş bir anahtarla değiştirmelisiniz. Yukarıdaki oluşturulan bir kopyalayabilirsiniz. Siteyi şifrelenmiş parolalar kullanacak şekilde yapılandırdıysanız, metin parolalarını temizlemek için geri dönmeniz, ardından makine anahtarını değiştirip ardından şifrelenmiş parolalara geri dönmeniz gerektiğini unutmayın, çünkü makine anahtarı parolaları şifrelemek için kullanılır. Ayrıca makine anahtarını değiştirdiğinizde, tüm kullanıcıların oturumunu kapatacağını ve yeniden oturum açmaları gerekeceğini unutmayın.</value>
   </data>
   <data name="CutePagerBackToFirstClause" xml:space="preserve">
     <value>İlk Sayfaya Git</value>
@@ -1903,7 +1903,7 @@
     <value>Yapıldı</value>
   </data>
   <data name="DotNetVersionLabel" xml:space="preserve">
-    <value>ASP.NET Info</value>
+    <value>ASP.NET Bilgisi</value>
   </data>
   <data name="DownloadLogButton" xml:space="preserve">
     <value>Download Log</value>
@@ -1939,7 +1939,7 @@
     <value>Lütfen geçerli bir mail adresi girin.</value>
   </data>
   <data name="EmailIsValidHint" xml:space="preserve">
-    <value>The email address is properly formatted.</value>
+    <value>E-posta adresi biçimi doğru değil.</value>
   </data>
   <data name="EmailNotConfirmedHint" xml:space="preserve">
     <value>E-Mail adresleri aynı değil.</value>
@@ -1990,7 +1990,7 @@
     <value>Modül</value>
   </data>
   <data name="FeaturePermissionInfo" xml:space="preserve">
-    <value>Users in selected roles will see this feature in the list of available features when adding features to pages or using the content manager to create new feature instances. Note that the user would have to have edit permissions on a page in order to be able to add any features. Typically, you will want to set All Users or Authenticated Users here unless there are specific roles that you don't want to be able to create new instances of the feature. It has no effect on a users permission to edit existing feature instances, it only controls the creation of new instances of the feature.</value>
+    <value>Seçilen rollerdeki kullanıcılar, sayfalara özellik eklerken veya yeni özellik örnekleri oluşturmak için içerik yöneticisini kullanırken mevcut özellikler listesinde bu özelliği görürler. Herhangi bir özellik ekleyebilmek için kullanıcının bir sayfada düzenleme izinlerine sahip olması gerektiğini unutmayın. Tipik olarak, özelliğin yeni örneklerini oluşturmak istemediğiniz belirli roller olmadığı sürece, burada Tüm Kullanıcılar'ı veya Kimliği Doğrulanmış Kullanıcılar'ı ayarlamak isteyeceksiniz. Bir kullanıcının mevcut özellik örneklerini düzenleme izni üzerinde hiçbir etkisi yoktur, yalnızca özelliğin yeni örneklerinin oluşturulmasını denetler.</value>
   </data>
   <data name="FeaturePermissions" xml:space="preserve">
     <value>Modül İzinleri</value>
@@ -2050,7 +2050,7 @@
     <value>Dosya Bilgileri</value>
   </data>
   <data name="FileManagerAlternateLink" xml:space="preserve">
-    <value>Alternate File Manager</value>
+    <value>Alternatif Dosya Yöneticisi</value>
   </data>
   <data name="FileManagerCancelButton" xml:space="preserve">
     <value>Vazgeç</value>
@@ -2143,13 +2143,13 @@
     <value>Açılır listeden sayfa seçin</value>
   </data>
   <data name="FriendlyUrlWouldMaskPhysicalPageWarning" xml:space="preserve">
-    <value>Cannot create this url because it would mask a physical page.</value>
+    <value>Fiziksel bir sayfayı maskeleyeceği için bu url oluşturulamaz.</value>
   </data>
   <data name="GCheckoutBuyerId" xml:space="preserve">
     <value>BuyerId</value>
   </data>
   <data name="GCheckoutCreatedUtc" xml:space="preserve">
-    <value>Created UTC</value>
+    <value>Oluşturuldu UTC</value>
   </data>
   <data name="GCheckoutFinanceState" xml:space="preserve">
     <value>Financial Status</value>
@@ -2365,7 +2365,7 @@
     <value>Üzgünüz, bu madde için henüz yardım yok.</value>
   </data>
   <data name="HelpNoHelpAvailableAdminUser" xml:space="preserve">
-    <value>No help is currently available for this item. If you create help for this, please contribute it to the project. The created file will be under ~/Data/HelpFiles. Please email it to me at joe_audette at yahoo dotcom.</value>
+    <value>Şu anda bu öğe için yardım yok. Bunun için yardım oluşturursanız, lütfen projeye katkıda bulunun. Oluşturulan dosya ~ / Data / HelpFiles altında olacaktır. Lütfen yahoo dotcom'daki joe_audette adresinden bana e-posta ile gönderin.</value>
   </data>
   <data name="HiddenUser" xml:space="preserve">
     <value>Saklı</value>
@@ -2659,7 +2659,7 @@
     <value>Üzgünüz, site yöneticisi hesabınızı onayladıktan sonra giriş yapabilirsiniz.</value>
   </data>
   <data name="LoginUnconfirmedEmailMessage" xml:space="preserve">
-    <value>This account has not been confirmed. You cannot sign in without first confirming your email address. You should have recieved an email message with a link to confirm this account. If you did not receive the email message with the confirmation link after 1 hour, please contact the site Administrator for assistance.</value>
+    <value>Bu hesap onaylanmadı. Önce e-posta adresinizi onaylamadan oturum açamazsınız. Bu hesabı onaylamak için bir bağlantı içeren bir e-posta mesajı almış olmalısınız. Onay bağlantısını içeren e-posta mesajını 1 saat sonra almadıysanız, lütfen yardım için site Yöneticisine başvurun.</value>
   </data>
   <data name="LookupUserByIPAddressButton" xml:space="preserve">
     <value>IP Adresini Ara</value>
@@ -2716,13 +2716,13 @@
     <value>Host Name</value>
   </data>
   <data name="ManageUsersLocationGridIPAddressHeading" xml:space="preserve">
-    <value>IP Address</value>
+    <value>IP Adresi</value>
   </data>
   <data name="ManageUsersLocationGridISPHeading" xml:space="preserve">
-    <value>ISP</value>
+    <value>ISS</value>
   </data>
   <data name="ManageUsersLocationGridLastCaptureHeading" xml:space="preserve">
-    <value>Last Capture</value>
+    <value>Son Yakalama</value>
   </data>
   <data name="ManageUsersLocationGridRegionHeading" xml:space="preserve">
     <value>Bölge</value>
@@ -2764,16 +2764,16 @@
     <value>Geçersiz Parola Girişi tamsayı olmalıdır.</value>
   </data>
   <data name="MediumTextLabel" xml:space="preserve">
-    <value>Medium Text</value>
+    <value>Orta Metin</value>
   </data>
   <data name="MemberGraphHeightSetting" xml:space="preserve">
-    <value>Membership Graph Height</value>
+    <value>Üyelik Grafiği Yüksekliği</value>
   </data>
   <data name="MemberGraphTitle" xml:space="preserve">
-    <value>New Site Members by Month</value>
+    <value>Aya Göre Yeni Site Üyeleri</value>
   </data>
   <data name="MemberGraphWidthSetting" xml:space="preserve">
-    <value>Membership Graph Width</value>
+    <value>Üyelik Grafiği Genişliği</value>
   </data>
   <data name="MemberGraphXAxisLabel" xml:space="preserve">
     <value>Ay</value>
@@ -2800,7 +2800,7 @@
     <value>{0} Üye Listesi</value>
   </data>
   <data name="MetaDescriptionMyPageFormat" xml:space="preserve">
-    <value>A customizable personal portal page for members of {0}.</value>
+    <value>Üyeler için özelleştirilebilir bir kişisel portal sayfası {0}.</value>
   </data>
   <data name="MetaDescriptionOpenIDRegistrationPageFormat" xml:space="preserve">
     <value>{0} Account Registration Page for Open ID Users</value>
@@ -2812,22 +2812,22 @@
     <value>{0} Site Arama</value>
   </data>
   <data name="MetaDescriptionSignInPageFormat" xml:space="preserve">
-    <value>{0} User Sign In Page</value>
+    <value>{0} Kullanıcı Oturum Açma Sayfası</value>
   </data>
   <data name="MetaDescriptionSiteMapFormat" xml:space="preserve">
     <value>{0} Site Haritası</value>
   </data>
   <data name="MetaDescriptionWidnowsLiveRegistrationPageFormat" xml:space="preserve">
-    <value>{0} Account Registration Page for Windows Live Users</value>
+    <value>{0} Windows Live Kullanıcıları için Hesap Kayıt Sayfası</value>
   </data>
   <data name="MetaProfileLabel" xml:space="preserve">
-    <value>Meta Content Profile</value>
+    <value>Meta İçerik Profili</value>
   </data>
   <data name="Mile" xml:space="preserve">
-    <value>Mile</value>
+    <value>Mil</value>
   </data>
   <data name="Miles" xml:space="preserve">
-    <value>miles</value>
+    <value>mil</value>
   </data>
   <data name="MinPasswordLengthRegexWarning" xml:space="preserve">
     <value>Min Parola Uzunluğu tamsayı olmalıdır.</value>
@@ -2912,25 +2912,25 @@
     <value>Kaynak Dosya:</value>
   </data>
   <data name="ModuleDefinitionsResourceKeyLabel" xml:space="preserve">
-    <value>Feature Name Resource Key</value>
+    <value>Özellik Kaynak Anahtarı</value>
   </data>
   <data name="ModuleDefinitionsSearchListNameLabel" xml:space="preserve">
-    <value>Search List ResourceName</value>
+    <value>Arama Listesi Kaynak Adı</value>
   </data>
   <data name="ModuleDefinitionsSettingControlSrcLabel" xml:space="preserve">
-    <value>Control Source:</value>
+    <value>Kontrol Kaynağı:</value>
   </data>
   <data name="ModuleDefinitionsSettingControlTypeLabel" xml:space="preserve">
-    <value>Control Type</value>
+    <value>Kontrol tipi</value>
   </data>
   <data name="ModuleDefinitionsSettingHelpKeyLabel" xml:space="preserve">
     <value>Help Key:</value>
   </data>
   <data name="ModuleDefinitionsSettingNameLabel" xml:space="preserve">
-    <value>Setting Key (no spaces), use the same key for the label in your Resource file</value>
+    <value>Ayar Anahtarı (boşluksuz), Kaynak dosyanızdaki etiket için aynı anahtarı kullanın</value>
   </data>
   <data name="ModuleDefinitionsSettingRegexExpressionLabel" xml:space="preserve">
-    <value>Regex Validation Expression</value>
+    <value>Regex Doğrulama İfadesi</value>
   </data>
   <data name="ModuleDefinitionsSettingsLabel" xml:space="preserve">
     <value>Modül Ayarları</value>
@@ -2951,10 +2951,10 @@
     <value>Sayfam için geçerli?</value>
   </data>
   <data name="ModuleSettingsCacheRegexWarning" xml:space="preserve">
-    <value>Cache Time must be an integer between 0 and 99999999</value>
+    <value>Önbellek Süresi, 0 ile 99999999 arasında bir tam sayı olmalıdır</value>
   </data>
   <data name="ModuleSettingsCacheRequiredMessage" xml:space="preserve">
-    <value>Cache Timeout is required, use 0 for no cache.</value>
+    <value>Önbellek Zaman Aşımı gerekli, önbellek olmaması için 0 kullanın.</value>
   </data>
   <data name="ModuleSettingsCancelButton" xml:space="preserve">
     <value>Vazgeç</value>
@@ -2984,7 +2984,7 @@
     <value>İkon:</value>
   </data>
   <data name="ModuleSettingsIsGlobal" xml:space="preserve">
-    <value>Is Global?</value>
+    <value>Global Uygulansın mı?</value>
   </data>
   <data name="ModuleSettingsNoIconLabel" xml:space="preserve">
     <value>Hiçbiri</value>
@@ -3014,7 +3014,7 @@
     <value>İçerik Ekle</value>
   </data>
   <data name="MyPageAnonymousMessage" xml:space="preserve">
-    <value>If you sign in you can customize this page.</value>
+    <value>Giriş yaparsanız bu sayfayı özelleştirebilirsiniz.</value>
   </data>
   <data name="MyPageCancelNewPageButton" xml:space="preserve">
     <value>Vazgeç</value>
@@ -3497,7 +3497,7 @@
     <value>Registration Canceled</value>
   </data>
   <data name="OpenIDRegistrationFailedMessage" xml:space="preserve">
-    <value>Registration Failed</value>
+    <value>Kayıt başarısız</value>
   </data>
   <data name="OpenIDRegistrationHeading" xml:space="preserve">
     <value>Register on this Site with Your Open ID Account</value>
@@ -3521,7 +3521,7 @@
     <value>İşletim Sistemi</value>
   </data>
   <data name="OrderStatusCancelled" xml:space="preserve">
-    <value>Cancelled</value>
+    <value>İptal edildi</value>
   </data>
   <data name="OrderStatusFulfillable" xml:space="preserve">
     <value>Fulfillable</value>
@@ -3536,7 +3536,7 @@
     <value>Received</value>
   </data>
   <data name="PageBrowseNode" xml:space="preserve">
-    <value>Pages</value>
+    <value>Sayfalar</value>
   </data>
   <data name="PageChangeFrequencyAlways" xml:space="preserve">
     <value>her zaman</value>
@@ -3605,7 +3605,7 @@
     <value>Alt Bölme</value>
   </data>
   <data name="PageLayoutAltPanelInfo" xml:space="preserve">
-    <value>Note the current skin contains optional alternate content sections show below. If you put content in these sections and then change to a skin that does not have them then the content will be placed in the center pane instead.</value>
+    <value>Mevcut dış görünümün aşağıda gösterilen isteğe bağlı alternatif içerik bölümleri içerdiğini unutmayın. Bu bölümlere içerik koyarsanız ve daha sonra bunlara sahip olmayan bir kaplamaya geçerseniz, içerik bunun yerine orta bölmeye yerleştirilecektir.</value>
   </data>
   <data name="PageLayoutDefaultNewModuleName" xml:space="preserve">
     <value>Yeni İçerik Başlığı</value>
@@ -3626,19 +3626,19 @@
     <value>Seçili öğeyi orta panele taşı</value>
   </data>
   <data name="PageLayoutMoveAlt2ToAlt1Button" xml:space="preserve">
-    <value>Move selected content up to next content pane</value>
+    <value>Seçili içeriği sonraki içerik bölmesine taşı</value>
   </data>
   <data name="PageLayoutMoveAltToCenterButton" xml:space="preserve">
-    <value>Move selected content to center pane</value>
+    <value>Seçili içeriği orta bölmeye taşı</value>
   </data>
   <data name="PageLayoutMoveCenterToAlt1Button" xml:space="preserve">
     <value>Move selected content to header pane</value>
   </data>
   <data name="PageLayoutMoveCenterToAlt2Button" xml:space="preserve">
-    <value>Move selected content to footer pane</value>
+    <value>Seçili içeriği altbilgi bölmesine taşı</value>
   </data>
   <data name="PageLayoutPageTitle" xml:space="preserve">
-    <value>Page Content Layout</value>
+    <value>Sayfa İçeriği Düzeni</value>
   </data>
   <data name="PageLayoutRemoveContentWarning" xml:space="preserve">
     <value>Bu öğeyi sayfadan silmek istediğinize emin misiniz?</value>
@@ -3791,7 +3791,7 @@
     <value>Sayfa Hiyerarşisini Düzenle</value>
   </data>
   <data name="PageUrlInUseErrorMessage" xml:space="preserve">
-    <value>The Url is already in use. You cannot use the same Url for different pages, unless you use the full Url with http. However, doing this will result in multiple Menu Pages pointing to the same actual page.</value>
+    <value>URL zaten kullanılıyor. Tam URL'yi http ile kullanmadığınız sürece, farklı sayfalar için aynı URL'yi kullanamazsınız. Ancak, bunu yapmak birden fazla Menü Sayfasının aynı gerçek sayfaya işaret etmesine neden olacaktır.</value>
   </data>
   <data name="PageViewPageLink" xml:space="preserve">
     <value>Sayfayı Göster</value>
@@ -3818,10 +3818,10 @@
     <value>{0} parolanız.</value>
   </data>
   <data name="PasswordRecoveryGeneralFailureText" xml:space="preserve">
-    <value>We were unable to access your information. Please try again.</value>
+    <value>Bilgilerinize erişemedik. Lütfen tekrar deneyin.</value>
   </data>
   <data name="PasswordRecoveryMailFailureMessage" xml:space="preserve">
-    <value>Sorry, your password could not be sent because the server was unable to send the message. Please try again in a few minutes. If the problem persists please notify the Site Administrator. The error has been logged.</value>
+    <value>Üzgünüz, sunucu mesajınızı gönderemediği için şifreniz gönderilemedi. Lütfen birkaç dakika içinde tekrar deneyin. Sorun devam ederse lütfen Site Yöneticisine bildirin. Hata kaydedildi.</value>
   </data>
   <data name="PasswordRecoveryNextButton" xml:space="preserve">
     <value>İleri</value>
@@ -3899,7 +3899,7 @@
     <value>Edits Currently in Progress</value>
   </data>
   <data name="PendingPagesIntroduction" xml:space="preserve">
-    <value>The following pages are currently marked as 'Draft'. This means they are not published and therefore only visible to members of the draft edit roles or edit roles. Members of the edit roles can approve the draft content on pages and can change the page to a published page by unchecking the 'Is Draft' checkbox in page settings. </value>
+    <value>Aşağıdaki sayfalar şu anda 'Taslak' olarak işaretlenmiştir. Bu, yayınlanmadıkları ve bu nedenle yalnızca taslak düzenleme rollerinin veya düzenleme rollerinin üyeleri tarafından görülebileceği anlamına gelir. Düzenleme rollerinin üyeleri, sayfalardaki taslak içeriği onaylayabilir ve sayfa ayarlarında 'Taslak' onay kutusunun işaretini kaldırarak sayfayı yayınlanan bir sayfaya dönüştürebilir. </value>
   </data>
   <data name="PendingPagesTitle" xml:space="preserve">
     <value>Draft Pages</value>
@@ -3941,7 +3941,7 @@
     <value>Podcast</value>
   </data>
   <data name="PoweredByAltText" xml:space="preserve">
-    <value>Powered by mojoPortal Content Management System</value>
+    <value>Geliştirildi mojoPortal Content Management System tarafından</value>
   </data>
   <data name="PoweredByBing" xml:space="preserve">
     <value>Powered by Bing</value>
@@ -3995,7 +3995,7 @@
     <value>Gönder</value>
   </data>
   <data name="RecoverPasswordMetaDescriptionFormat" xml:space="preserve">
-    <value>This is the password recovery utility page for members of {0} who have forgotten their password.</value>
+    <value>Bu, şifrelerini unutan {0} üyeleri için şifre kurtarma yardımcı programı sayfasıdır.</value>
   </data>
   <data name="RedirectDeleteWarning" xml:space="preserve">
     <value>301 redirect'i silmek istediğinize emin misiniz?</value>
@@ -4007,7 +4007,7 @@
     <value>301 Redirect Yönetimi - Url'si değişen sayfalar için</value>
   </data>
   <data name="RedirectManagerShortLink" xml:space="preserve">
-    <value>Redirect Manager</value>
+    <value>Yönlendirme Yöneticisi</value>
   </data>
   <data name="RedirectsToLabel" xml:space="preserve">
     <value>redirects to</value>
@@ -4043,7 +4043,7 @@
     <value>Sorry a user already exists with that User ID.</value>
   </data>
   <data name="RegisterEmailConfirmLabel" xml:space="preserve">
-    <value>Confirm Email</value>
+    <value>E-postanızı Onaylayın</value>
   </data>
   <data name="RegisterEmailHint" xml:space="preserve">
     <value>Lütfen geçerli bir E-Mail adresi girin.</value>
@@ -4106,19 +4106,19 @@
     <value>Belirttiğiniz adrese bir mail gönderildi. Buradaki linke tıklayarak mail adresinizin geçerliliğini doğrulayınız. Böylece hesabınız aktif hale gelecek ve siteye giriş yapabileceksiniz.</value>
   </data>
   <data name="RejectContentHeading" xml:space="preserve">
-    <value>Reject Content</value>
+    <value>İçeriği Reddet</value>
   </data>
   <data name="RejectContentToolTip" xml:space="preserve">
     <value>Reject the changes made to this Content Instance</value>
   </data>
   <data name="RejectedBy" xml:space="preserve">
-    <value>Rejected By</value>
+    <value>Tarafından reddedildi</value>
   </data>
   <data name="RejectedContentHeading" xml:space="preserve">
-    <value>Rejected Content Changes</value>
+    <value>Reddedilen İçerik Değişiklikleri</value>
   </data>
   <data name="RejectedContentIntroduction" xml:space="preserve">
-    <value>The following content changes have been rejected. In order to edit the content, click one of the pages on which the content was published, and click the edit button. Once you have finished editing the content, you should resubmit the content for approval.</value>
+    <value>Aşağıdaki içerik değişiklikleri reddedildi. İçeriği düzenlemek için, içeriğin yayınlandığı sayfalardan birine tıklayın ve düzenle düğmesine tıklayın. İçeriği düzenlemeyi bitirdikten sonra, içeriği onay için yeniden göndermelisiniz.</value>
   </data>
   <data name="RejectedOn" xml:space="preserve">
     <value>Rejected On</value>
@@ -4133,10 +4133,10 @@
     <value>this module</value>
   </data>
   <data name="RejectionPageUpdateButton" xml:space="preserve">
-    <value>Reject Changes</value>
+    <value>Değişiklikleri Reddet</value>
   </data>
   <data name="RequestApprovalToolTip" xml:space="preserve">
-    <value>Request Approval for this Draft Content Instance</value>
+    <value>Bu Taslak İçerik Örneği için Onay İste</value>
   </data>
   <data name="RequireCaptchaOnLoginPage" xml:space="preserve">
     <value>Üye girişinde Captcha kullan?</value>
@@ -4193,28 +4193,28 @@
     <value>Roles that can edit content and style templates.</value>
   </data>
   <data name="RolesThatCanLookupUsers" xml:space="preserve">
-    <value>Roles that can lookup users.</value>
+    <value>Kullanıcıları arayabilen roller.</value>
   </data>
   <data name="RolesThatCanManageUsers" xml:space="preserve">
-    <value>Roles that can create users.</value>
+    <value>Kullanıcı oluşturabilen roller.</value>
   </data>
   <data name="RolesThatCanViewCommerceReportsLabel" xml:space="preserve">
-    <value>Roles That Can View Commerce Reports:</value>
+    <value>Ticaret Raporlarını Görüntüleyebilen Roller:</value>
   </data>
   <data name="RolesThatCanViewMemberList" xml:space="preserve">
-    <value>Roles that can view the member list page.</value>
+    <value>Üye listesi sayfasını görüntüleyebilen roller.</value>
   </data>
   <data name="RolesThatCanViewMyPage" xml:space="preserve">
     <value>Roles that can use the My Page feature.</value>
   </data>
   <data name="RootDirectory" xml:space="preserve">
-    <value>Root Directory</value>
+    <value>Kök dizini</value>
   </data>
   <data name="RootFolder" xml:space="preserve">
-    <value>Root Folder</value>
+    <value>Kök Klasör</value>
   </data>
   <data name="RpxAdminLink" xml:space="preserve">
-    <value>Manage this account at RpxNow.com</value>
+    <value>Bu hesabı RpxNow.com adresinden yönetin</value>
   </data>
   <data name="RpxButtonConfirm" xml:space="preserve">
     <value>If you have an existing RPX account for this site, you should enter the API key before continuing. If not you should leave the API key field blank. Do you want to continue?</value>
@@ -4262,7 +4262,7 @@
     <value>Schema Version</value>
   </data>
   <data name="SearchAllContentItem" xml:space="preserve">
-    <value>All Content</value>
+    <value>Tüm içerik</value>
   </data>
   <data name="SearchDiscoveryTitleFormat" xml:space="preserve">
     <value>{0} Site Arama</value>
@@ -4271,22 +4271,22 @@
     <value>Aranacak Kelime</value>
   </data>
   <data name="SearchQueryInvalid" xml:space="preserve">
-    <value>Sorry,  your search query is not formed correctly, we were unable to complete your search.</value>
+    <value>Üzgünüz, arama sorgunuz doğru biçimlendirilmedi, aramanızı tamamlayamadık.</value>
   </data>
   <data name="SearchRebuildIndexButton" xml:space="preserve">
     <value>Arama İndeksini Güncelle</value>
   </data>
   <data name="SearchRebuildIndexWarning" xml:space="preserve">
-    <value>Are you sure you want to delete and rebuild the search index? For a large site this may take a while.</value>
+    <value>Arama dizinini silmek ve yeniden oluşturmak istediğinizden emin misiniz? Büyük bir site için bu biraz zaman alabilir.</value>
   </data>
   <data name="SearchResultsNotFound" xml:space="preserve">
     <value>Sonuç bulunamadı.</value>
   </data>
   <data name="SearchThisSiteWithBing" xml:space="preserve">
-    <value>Search this site with Bing</value>
+    <value>Bu siteyi Bing ile ara </value>
   </data>
   <data name="SearchThisSiteWithGoogle" xml:space="preserve">
-    <value>Search this site with Google</value>
+    <value>Bu siteyi Google ile ara </value>
   </data>
   <data name="SearchTitleFormat" xml:space="preserve">
     <value>{0} Arama: {1}</value>
@@ -4295,10 +4295,10 @@
     <value>Güvenlik Danışmanı</value>
   </data>
   <data name="SecurityAdvisorInfo" xml:space="preserve">
-    <value>This page helps find common configuration issues that affect the security of your site.</value>
+    <value>Bu sayfa, sitenizin güvenliğini etkileyen yaygın yapılandırma sorunlarını bulmanıza yardımcı olur.</value>
   </data>
   <data name="SecurityDangerLabel" xml:space="preserve">
-    <value>Danger - Not Secure</value>
+    <value>Tehlike - Güvenli Değil</value>
   </data>
   <data name="SecurityWarningLabel" xml:space="preserve">
     <value>Uyarı</value>
@@ -4310,13 +4310,13 @@
     <value>Seçim</value>
   </data>
   <data name="ServerLogClearLogButton" xml:space="preserve">
-    <value>Clear Log</value>
+    <value>Günlüğü Temizle</value>
   </data>
   <data name="ServerVariablesHeading" xml:space="preserve">
-    <value>Server Variables</value>
+    <value>Sunucu Değişkenleri</value>
   </data>
   <data name="ServerVariablesLink" xml:space="preserve">
-    <value>Server Variables</value>
+    <value>Sunucu Değişkenleri</value>
   </data>
   <data name="SettingsLink" xml:space="preserve">
     <value>Ayarlar</value>
@@ -4325,7 +4325,7 @@
     <value>Setup RPX</value>
   </data>
   <data name="ShowAlternateSearchIfConfigured" xml:space="preserve">
-    <value>Show Alternate Search If Configured?</value>
+    <value>Yapılandırılmışsa Alternatif Aramayı Göster?</value>
   </data>
   <data name="ShowHomePageCrumb" xml:space="preserve">
     <value>Anasayfayı kırıntılarda göster?</value>
@@ -4334,10 +4334,10 @@
     <value>Hesabı Kilitli Üyeler</value>
   </data>
   <data name="ShowMemberGraphSetting" xml:space="preserve">
-    <value>Show Membership Graph?</value>
+    <value>Üyelik Grafiğini Göster?</value>
   </data>
   <data name="ShowNotApprovedUsers" xml:space="preserve">
-    <value>Show Users Waiting For Approval</value>
+    <value>Onay Bekleyen Kullanıcıları Göster</value>
   </data>
   <data name="ShowPasswordStrengthOnRegistrationPage" xml:space="preserve">
     <value>Üye kaydında parola zorluk derecesini göster?</value>
@@ -4346,19 +4346,19 @@
     <value>Üye Giriş Formu</value>
   </data>
   <data name="SimpleMatchCaptchaControlInstructions" xml:space="preserve">
-    <value>Solve This To Prove You are a Real Person, not a SPAM script.</value>
+    <value>SPAM komut dosyası değil, gerçek bir kişi olduğunuzu kanıtlamak için bunu çözün.</value>
   </data>
   <data name="SiteDefaultEditor" xml:space="preserve">
-    <value>Site Default Editor</value>
+    <value>Site Varsayılan Düzenleyicisi</value>
   </data>
   <data name="SiteEditRolesLabel" xml:space="preserve">
-    <value>Site Editor Roles</value>
+    <value>Site Düzenleyicisi Rolleri</value>
   </data>
   <data name="SiteMapLink" xml:space="preserve">
     <value>Site Haritası</value>
   </data>
   <data name="SiteOfficeNewEmailAccount" xml:space="preserve">
-    <value>New Email Account</value>
+    <value>Yeni E-posta Hesabı</value>
   </data>
   <data name="SiteOfficeTitle" xml:space="preserve">
     <value>Site Office</value>
@@ -4367,13 +4367,13 @@
     <value>Site Arama</value>
   </data>
   <data name="SiteSettignsAddWebPartTooltip" xml:space="preserve">
-    <value>Add Selected WebPart</value>
+    <value>Seçili Web Bölümünü Ekle</value>
   </data>
   <data name="SiteSettingsAddFeatureTooltip" xml:space="preserve">
-    <value>Add Selected Feature</value>
+    <value>Seçili Özelliği Ekle</value>
   </data>
   <data name="SiteSettingsAddFolderMappingButton" xml:space="preserve">
-    <value>Add Folder Mapping</value>
+    <value>Klasör Eşleme Ekle</value>
   </data>
   <data name="SiteSettingsAddThisAccountIdLabel" xml:space="preserve">
     <value>AddThis.com Username:</value>
@@ -4397,25 +4397,25 @@
     <value>Anti-SPAM Captcha</value>
   </data>
   <data name="SiteSettingsClearTextPasswordLabel" xml:space="preserve">
-    <value>Clear Text in db</value>
+    <value>Db'de Metni Temizle</value>
   </data>
   <data name="SiteSettingsCommentSystem" xml:space="preserve">
-    <value>Comment System</value>
+    <value>Yorum Sistemi</value>
   </data>
   <data name="SiteSettingsCompanyNameLabel" xml:space="preserve">
     <value>Firma Adı</value>
   </data>
   <data name="SiteSettingsDeleteFolderMapping" xml:space="preserve">
-    <value>Delete folder mapping</value>
+    <value>Klasör eşlemesini silin</value>
   </data>
   <data name="SiteSettingsDeleteFolderMappingWarning" xml:space="preserve">
-    <value>Are you sure you want to delete this folder mapping?</value>
+    <value>Bu klasör eşlemesini (mapping) silmek istediğinizden emin misiniz?</value>
   </data>
   <data name="SiteSettingsDeleteSiteButton" xml:space="preserve">
     <value>Sil</value>
   </data>
   <data name="SiteSettingsDeleteWarning" xml:space="preserve">
-    <value>Are you sure you want to permanently delete this site and all its content? You will not be able to undo this change.</value>
+    <value>Bu siteyi ve tüm içeriğini kalıcı olarak silmek istediğinizden emin misiniz? Bu değişikliği geri alamayacaksınız.</value>
   </data>
   <data name="SiteSettingsDuplicateHostsWarning" xml:space="preserve">
     <value>Host names must be unique, no duplicates are allowed.</value>
@@ -4430,58 +4430,61 @@
     <value>Encrypted in db</value>
   </data>
   <data name="SiteSettingsExistingFolderMappingsLabel" xml:space="preserve">
-    <value>Current Folders Mapped to this Site</value>
+    <value>Bu Siteyle Eşlenen Mevcut Klasörler</value>
   </data>
   <data name="SiteSettingsFeaturesAllowedLabel" xml:space="preserve">
     <value>Özellikler</value>
   </data>
   <data name="SiteSettingsFolderMappingLabel" xml:space="preserve">
-    <value>Folder Site Mapping</value>
+    <value>Klasör Site Eşlemesi</value>
   </data>
   <data name="SiteSettingsFolderNameAlreadyInUseWarning" xml:space="preserve">
-    <value>Folder name is already used.</value>
+    <value>Klasör adı zaten kullanılıyor.</value>
   </data>
   <data name="SiteSettingsFolderNameBlankWarning" xml:space="preserve">
-    <value>You must enter a Folder name.</value>
+    <value>Bir Klasör adı girmelisiniz.</value>
   </data>
   <data name="SiteSettingsFolderNameInvalidCharsWarning" xml:space="preserve">
-    <value>Only alphanumeric characters are allowed for folder names.</value>
+    <value>Klasör adları için yalnızca alfanümerik karakterlere izin verilir.</value>
   </data>
   <data name="SiteSettingsFolderNameNotAllowedWarning" xml:space="preserve">
-    <value>Sorry that folder name is not allowed because it conflicts with system folders.</value>
+    <value>Maalesef, sistem klasörleriyle çakıştığı için klasör adına izin verilmiyor.</value>
   </data>
   <data name="SiteSettingsGeneralSettingsTab" xml:space="preserve">
-    <value>General</value>
+    <value>Genel Ayarlar</value>
+  </data>
+  <data name="SiteSettingsSiteMappingsLabel" xml:space="preserve">
+    <value>Site Haritası</value>
   </data>
   <data name="SiteSettingsGmapApiKeyLabel" xml:space="preserve">
     <value>Google Maps API Key</value>
   </data>
   <data name="SiteSettingsHashedPasswordLabel" xml:space="preserve">
-    <value>Hashed in db/Cannot Be Decrypted</value>
+    <value>Db'de Hashed / Şifresi Çözülemiyor</value>
   </data>
   <data name="SiteSettingsHideLdapsSettings" xml:space="preserve">
-    <value>Hide LDAP Settings</value>
+    <value>LDAP Ayarlarını Gizle</value>
   </data>
   <data name="SiteSettingsHideMetaSettings" xml:space="preserve">
-    <value>Hide Meta Settings</value>
+    <value>Meta Ayarlarını Gizle</value>
   </data>
   <data name="SiteSettingsHideUserSecurity" xml:space="preserve">
-    <value>Hide User Security Settings</value>
+    <value>Kullanıcı Güvenlik Ayarlarını Gizle</value>
   </data>
   <data name="SiteSettingsHostDeleteWarning" xml:space="preserve">
-    <value>Are you sure you want to delete this host mapping?</value>
+    <value>Bu ana bilgisayar eşlemesini silmek istediğinizden emin misiniz?</value>
   </data>
   <data name="SiteSettingsHostNameMappingLabel" xml:space="preserve">
-    <value>Host Name Mapping</value>
+    <value>Ana Bilgisayar Adı Eşleme</value>
   </data>
   <data name="SiteSettingsHostNameRequiredMessage" xml:space="preserve">
-    <value>You must enter a Host Name.</value>
+    <value>Bir Ana Bilgisayar (Hostname) Adı girmelisiniz.</value>
   </data>
   <data name="SiteSettingsLdapDomain" xml:space="preserve">
     <value>LDAP Domain:</value>
   </data>
   <data name="SiteSettingsLdapSettingsLabel" xml:space="preserve">
-    <value>LDAP Settings</value>
+    <value>LDAP Ayarları</value>
   </data>
   <data name="SiteSettingsLogoAltText" xml:space="preserve">
     <value>Site Logosu</value>
@@ -4508,7 +4511,7 @@
     <value>OpenID Selector Code</value>
   </data>
   <data name="SiteSettingsOpenSearchNameLabel" xml:space="preserve">
-    <value>Search Name</value>
+    <value>Arama Adı</value>
   </data>
   <data name="SiteSettingsPasswordAttemptWindowMinutesLabel" xml:space="preserve">
     <value>Parola Giriş Ekranı (dakika)</value>
@@ -4526,16 +4529,16 @@
     <value>İzinler</value>
   </data>
   <data name="SiteSettingsPreferredHostNameLabel" xml:space="preserve">
-    <value>Preferred Host Name</value>
+    <value>Tercih Edilen Ana Bilgisayar Adı</value>
   </data>
   <data name="SiteSettingsPrivacyUrlLabel" xml:space="preserve">
     <value>Gizlilik Politikası Url</value>
   </data>
   <data name="SiteSettingsRemoveFeatureTooltip" xml:space="preserve">
-    <value>Remove Selected Feature</value>
+    <value>Seçili Özelliği Kaldır</value>
   </data>
   <data name="SiteSettingsRemoveWebPartTooltip" xml:space="preserve">
-    <value>Remove Selected WebPart</value>
+    <value>Seçili Web Bölümünü Kaldır</value>
   </data>
   <data name="SiteSettingsRequireApprovalForLogin" xml:space="preserve">
     <value>Yeni üyelerin giriş yapabilmesi için onay gereksin?</value>
@@ -4571,13 +4574,13 @@
     <value>You must select an item to add from the All WebParts list.</value>
   </data>
   <data name="SiteSettingsSelectWebPartToRemoveWarning" xml:space="preserve">
-    <value>You must select an item to remove from the Selected WebParts list.</value>
+    <value>Seçili Web Bölümleri listesinden kaldırmak için bir öğe seçmelisiniz.</value>
   </data>
   <data name="SiteSettingsShowLdapSettigs" xml:space="preserve">
-    <value>Show LDAP Settings</value>
+    <value>LDAP Ayarlarını Göster</value>
   </data>
   <data name="SiteSettingsShowMetaSettings" xml:space="preserve">
-    <value>Show Meta Settings</value>
+    <value>Meta Ayarlarını Göster</value>
   </data>
   <data name="SiteSettingsShowUserSecurity" xml:space="preserve">
     <value>Show User Security Settings</value>
@@ -4589,16 +4592,16 @@
     <value>SiteId/SiteGuid</value>
   </data>
   <data name="SiteSettingsSiteRecaptchaPrivateKeyLabel" xml:space="preserve">
-    <value>Recaptcha Private Key</value>
+    <value>Recaptcha Özel anahtar</value>
   </data>
   <data name="SiteSettingsSiteRecaptchaPublicKeyLabel" xml:space="preserve">
-    <value>Recaptcha Public Key</value>
+    <value>Recaptcha Genel anahtar</value>
   </data>
   <data name="SiteSettingsUserSecuritySettingsLabel" xml:space="preserve">
-    <value>User Security Settings</value>
+    <value>Kullanıcı Güvenlik Ayarları</value>
   </data>
   <data name="SiteSettingsWebPartTab" xml:space="preserve">
-    <value>WebParts</value>
+    <value>Web Bölümleri</value>
   </data>
   <data name="SiteSettingsWindowsLiveAppIDLabel" xml:space="preserve">
     <value>Windows Live Application ID</value>
@@ -4649,7 +4652,7 @@
     <value>Önizleme/Gözat</value>
   </data>
   <data name="SkipLink" xml:space="preserve">
-    <value>Skip over navigation</value>
+    <value>Navigasyonu atla</value>
   </data>
   <data name="SlideShowSettings" xml:space="preserve">
     <value>Slayt Şov Ayarları</value>
@@ -4667,10 +4670,10 @@
     <value>SMTP Preferred Encoding</value>
   </data>
   <data name="SMTPRequiresAuthentication" xml:space="preserve">
-    <value>SMTP Requires Authentication?</value>
+    <value>SMTP, Kimlik Doğrulama Gerektirir?</value>
   </data>
   <data name="SMTPServer" xml:space="preserve">
-    <value>SMTP Server</value>
+    <value>SMTP Sunucu</value>
   </data>
   <data name="SMTPTimeoutInMilliseconds" xml:space="preserve">
     <value>SMTP Timeout In Milliseconds</value>
@@ -4679,10 +4682,10 @@
     <value>SMTP Kullanıcı</value>
   </data>
   <data name="SMTPUseSsl" xml:space="preserve">
-    <value>SMTP Use SSL?</value>
+    <value>SMTP SSL Kullanıyor mu?</value>
   </data>
   <data name="SocialSettings" xml:space="preserve">
-    <value>Sosyal Ayarlar</value>
+    <value>Sosyal Ağlar</value>
   </data>
   <data name="SortAscending" xml:space="preserve">
     <value>Artan</value>
@@ -4694,10 +4697,10 @@
     <value>CSS class gereklidir.</value>
   </data>
   <data name="StyleElementRequiredMessage" xml:space="preserve">
-    <value>Element is required.</value>
+    <value>Öğe Gerekli.</value>
   </data>
   <data name="StyleNameRequiredMessage" xml:space="preserve">
-    <value>Name is required.</value>
+    <value>İsim Gerekli.</value>
   </data>
   <data name="SubkismetCaptchaInstructions" xml:space="preserve">
     <value>Yandaki kodu yazın: </value>
@@ -4715,19 +4718,19 @@
     <value>Available Threads</value>
   </data>
   <data name="TaskQueueClearHistoryLink" xml:space="preserve">
-    <value>Clear All</value>
+    <value>Hepsini temizle</value>
   </data>
   <data name="TaskQueueCompletedTaskNotificationFormatString" xml:space="preserve">
-    <value>Task: {0} completed</value>
+    <value>Görev: {0} tamamlandı</value>
   </data>
   <data name="TaskQueued" xml:space="preserve">
-    <value>Queued</value>
+    <value>Sıraya alındı</value>
   </data>
   <data name="TaskQueueGridCompleteHeader" xml:space="preserve">
     <value>Tamamlandı</value>
   </data>
   <data name="TaskQueueGridCompleteProgressHeader" xml:space="preserve">
-    <value>Progress</value>
+    <value>İlerleme</value>
   </data>
   <data name="TaskQueueGridDeleteButton" xml:space="preserve">
     <value>Sil</value>
@@ -4736,7 +4739,7 @@
     <value>Son Güncelleme</value>
   </data>
   <data name="TaskQueueGridQueuedHeader" xml:space="preserve">
-    <value>Queued</value>
+    <value>Sıraya alındı</value>
   </data>
   <data name="TaskQueueGridStartedHeader" xml:space="preserve">
     <value>Başladı</value>
@@ -4745,7 +4748,7 @@
     <value>Durum</value>
   </data>
   <data name="TaskQueueGridTaksNameHeader" xml:space="preserve">
-    <value>Task Name</value>
+    <value>Görev Kuyruğu Adı</value>
   </data>
   <data name="TaskQueueHistoryHeading" xml:space="preserve">
     <value>Görev Kuyruğu Geçmişi</value>
@@ -4763,10 +4766,10 @@
     <value>Yenile</value>
   </data>
   <data name="TaskRunning" xml:space="preserve">
-    <value>Running</value>
+    <value>Görev Çalışıyor</value>
   </data>
   <data name="TaskStarted" xml:space="preserve">
-    <value>Task Started</value>
+    <value>Görev Başladı</value>
   </data>
   <data name="TaxClassAdminHeading" xml:space="preserve">
     <value>Tax Class Administration</value>
@@ -4796,10 +4799,10 @@
     <value>Güncelle</value>
   </data>
   <data name="TaxClassNotTaxable" xml:space="preserve">
-    <value>Not Taxable</value>
+    <value>Vergilendirilemez!</value>
   </data>
   <data name="TaxClassTaxable" xml:space="preserve">
-    <value>Taxable</value>
+    <value>Vergilendirilebilir</value>
   </data>
   <data name="TaxRateAdminHeading" xml:space="preserve">
     <value>Tax Rate Administration</value>
@@ -4838,7 +4841,7 @@
     <value>Rate</value>
   </data>
   <data name="TaxRateGridTaxClassHeader" xml:space="preserve">
-    <value>Tax Class</value>
+    <value>Vergi Sınıfı</value>
   </data>
   <data name="TaxRateGridUpdateButton" xml:space="preserve">
     <value>Güncelle</value>
@@ -4856,7 +4859,7 @@
     <value>Accordion No Auto Height - jQuery</value>
   </data>
   <data name="TemplatejQueryAccordionTitle" xml:space="preserve">
-    <value>Accordion - jQuery</value>
+    <value>Akordiyon - jQuery</value>
   </data>
   <data name="TemplatejQueryTabsTitle" xml:space="preserve">
     <value>Tabs - jQueryUI</value>
@@ -4865,13 +4868,13 @@
     <value>Tabs - YUI</value>
   </data>
   <data name="TermsOfUseAgree" xml:space="preserve">
-    <value>I agree to the terms of use.</value>
+    <value>Kullanım şartlarını kabul ediyorum.</value>
   </data>
   <data name="TermsOfUseWarning" xml:space="preserve">
     <value>Kullanım şartlarını kabul etmelisiniz.</value>
   </data>
   <data name="ThirdPartyRegistrationHeading" xml:space="preserve">
-    <value>Register with an existing account and you won't need to remember a new password.</value>
+    <value>Mevcut bir hesapla kaydolun ve yeni bir şifre hatırlamanıza gerek kalmayacak.</value>
   </data>
   <data name="TimeZone" xml:space="preserve">
     <value>Saat Dilimi</value>
@@ -4889,7 +4892,7 @@
     <value>Twitter'da Paylaş</value>
   </data>
   <data name="UploadAvatarAdminHeading" xml:space="preserve">
-    <value>Upload and Re-size Avatar</value>
+    <value>Upload et ve avatarı yeniden boyutlandır</value>
   </data>
   <data name="UploadAvatarButton" xml:space="preserve">
     <value>Upload</value>
@@ -4919,7 +4922,7 @@
     <value>{0}/{1} {2} ({3:0%}) at {4} - {5} left</value>
   </data>
   <data name="UploadRejectedLabel" xml:space="preserve">
-    <value>Rejected</value>
+    <value>Reddedildi</value>
   </data>
   <data name="UrlFormatAspx" xml:space="preserve">
     <value>page-name.aspx</value>
@@ -5009,7 +5012,7 @@
     <value>Verify that a custom machine key is being used</value>
   </data>
   <data name="VersionAsOfHeadingFormat" xml:space="preserve">
-    <value>Version as of {0}</value>
+    <value>{0}. Versiyon</value>
   </data>
   <data name="VertigoDarkTheme" xml:space="preserve">
     <value>Koyu</value>
@@ -5048,13 +5051,13 @@
     <value>Kur</value>
   </data>
   <data name="WebPartAllInstalledMessage" xml:space="preserve">
-    <value>All Available WebParts are Currently Installed. To add new WebParts, drop the assembly in the bin folder.</value>
+    <value>Tüm Kullanılabilir Web Bölümleri Şu Anda Yüklüdür. Yeni WebParts eklemek için bin klasörüne bırakın.</value>
   </data>
   <data name="WebPartAllowMultipleInstancesOnMyPageLabel" xml:space="preserve">
     <value>Sayfam'da birden çok kopyaya izin ver?</value>
   </data>
   <data name="WebPartAppearanceEditorTitle" xml:space="preserve">
-    <value>Appearance</value>
+    <value>Görünüm</value>
   </data>
   <data name="WebPartAssemblyNameLabel" xml:space="preserve">
     <value>Assembly Name</value>
@@ -5072,7 +5075,7 @@
     <value>Behavior</value>
   </data>
   <data name="WebPartCatalogMoreLink" xml:space="preserve">
-    <value>more...</value>
+    <value>daha...</value>
   </data>
   <data name="WebPartClassNameLabel" xml:space="preserve">
     <value>Class Name</value>
@@ -5144,10 +5147,10 @@
     <value>Düzenle</value>
   </data>
   <data name="WebPartEmptyCatalogZoneText" xml:space="preserve">
-    <value>Sorry no content is currently available</value>
+    <value>Maalesef şu anda hiçbir içerik mevcut değil</value>
   </data>
   <data name="WebPartEmptyZoneText" xml:space="preserve">
-    <value>You can drag content here from other columns or click the green plus to add content.</value>
+    <value>İçeriği diğer sütunlardan buraya sürükleyebilir veya içerik eklemek için yeşil artıya tıklayabilirsiniz.</value>
   </data>
   <data name="WebPartExportVerbDescription" xml:space="preserve">
     <value>Ver</value>
@@ -5171,7 +5174,7 @@
     <value>Installed WebParts</value>
   </data>
   <data name="WebPartLayoutEditorPartTitle" xml:space="preserve">
-    <value>Layout</value>
+    <value>Yerleşim</value>
   </data>
   <data name="WebPartManagerCatalogTooltip" xml:space="preserve">
     <value>Click here to view available content.</value>
@@ -5180,7 +5183,7 @@
     <value>Click here to close the catalog.</value>
   </data>
   <data name="WebPartManagerResetButton" xml:space="preserve">
-    <value>Reset Content</value>
+    <value>İçeriği Sıfırla</value>
   </data>
   <data name="WebPartManagerToggleFromUserModeTooltip" xml:space="preserve">
     <value>You are currently in User Scope. Click here to toggle to Shared Scope.</value>
@@ -5189,19 +5192,19 @@
     <value>You are currently in Shared Scope.  Click here to toggle to User Scope.</value>
   </data>
   <data name="WebPartMinimizeVerbDescription" xml:space="preserve">
-    <value>Minimize this content</value>
+    <value>Bu İçeriği Küçült</value>
   </data>
   <data name="WebPartMinimizeVerbText" xml:space="preserve">
-    <value>Minimize</value>
+    <value>Küçült</value>
   </data>
   <data name="WebPartModuleWebPartSetting" xml:space="preserve">
     <value>Select Web Part</value>
   </data>
   <data name="WebPartPageCatalogDescription" xml:space="preserve">
-    <value>Hidden Content</value>
+    <value>Gizli İçerik Açıklaması</value>
   </data>
   <data name="WebPartPageCatalogTitle" xml:space="preserve">
-    <value>Hidden Content</value>
+    <value>Gizli İçerik Başlığı</value>
   </data>
   <data name="WebPartPropertyGridEditorTitle" xml:space="preserve">
     <value>Web Part Properties</value>
@@ -5276,7 +5279,7 @@
     <value>None</value>
   </data>
   <data name="CopySkinAs" xml:space="preserve">
-    <value>Copy As</value>
+    <value>Farklı Kopyala</value>
   </data>
   <data name="CreateNewSite" xml:space="preserve">
     <value>Yeni Site Ekle</value>
@@ -5300,7 +5303,7 @@
     <value>Invalid CSS Class for Menu</value>
   </data>
   <data name="Manage" xml:space="preserve">
-    <value>Manage</value>
+    <value>Yönetin</value>
   </data>
   <data name="ManageSkin" xml:space="preserve">
     <value>Manage Skin</value>
@@ -5312,7 +5315,7 @@
     <value>HTML Element For Title</value>
   </data>
   <data name="OnlyZipFilesAllowed" xml:space="preserve">
-    <value>Only .zip files are allowed</value>
+    <value>Yalnızca .zip dosyalarına izin verilir</value>
   </data>
   <data name="OverwriteExistingSkinFiles" xml:space="preserve">
     <value>Mevcut Dosyaların Üzerine Kaydet</value>
@@ -5324,19 +5327,19 @@
     <value>Custom Menu CSS Class</value>
   </data>
   <data name="RegistrationAgreement" xml:space="preserve">
-    <value>Registration Agreement</value>
+    <value>Kayıt Anlaşması</value>
   </data>
   <data name="RegistrationAgreementLink" xml:space="preserve">
-    <value>Registration Agreement</value>
+    <value>Kayıt Anlaşması</value>
   </data>
   <data name="RegistrationPreamble" xml:space="preserve">
-    <value>Registration Preamble</value>
+    <value>Kayıt Önsözü</value>
   </data>
   <data name="RolesThatCanCreateUsers" xml:space="preserve">
-    <value>Roles that can create users.</value>
+    <value>Kullanıcı oluşturabilen roller.</value>
   </data>
   <data name="RolesThatCanManageSkins" xml:space="preserve">
-    <value>Roles that can manage skins.</value>
+    <value>Dış görünümleri (Skin) yönetebilen roller.</value>
   </data>
   <data name="SiteIdFormat" xml:space="preserve">
     <value>(SiteID = {0})</value>
@@ -5345,7 +5348,7 @@
     <value>Site Listesi</value>
   </data>
   <data name="SiteSettingsFormat" xml:space="preserve">
-    <value>{0} Site Settings</value>
+    <value>{0} Site Ayarları</value>
   </data>
   <data name="SiteSettingsSiteEmailFromAliasLabel" xml:space="preserve">
     <value>Site Email From Alias</value>
@@ -5357,7 +5360,7 @@
     <value>Skin Yükle</value>
   </data>
   <data name="View" xml:space="preserve">
-    <value>View</value>
+    <value>Görünüm</value>
   </data>
   <data name="WelcomeMessageFormat" xml:space="preserve">
     <value>Hoşgeldiniz {0}</value>
@@ -5366,7 +5369,7 @@
     <value>.zip dosya seçmelisiniz.</value>
   </data>
   <data name="TemplatejQueryFAQTitle" xml:space="preserve">
-    <value>FAQ</value>
+    <value>S.S.S.</value>
   </data>
   <data name="GridViewNoData" xml:space="preserve">
     <value>Veri Yok</value>
@@ -5378,40 +5381,40 @@
     <value>Done</value>
   </data>
   <data name="TimePickerCurrentText" xml:space="preserve">
-    <value>Now</value>
+    <value>Şimdi</value>
   </data>
   <data name="TimePickerHourText" xml:space="preserve">
-    <value>Hour</value>
+    <value>Saat</value>
   </data>
   <data name="TimePickerMinuteText" xml:space="preserve">
-    <value>Minute</value>
+    <value>Dakika</value>
   </data>
   <data name="TimePickerSecondText" xml:space="preserve">
-    <value>Second</value>
+    <value>Saniye</value>
   </data>
   <data name="TimePickerTimeOnlyTitle" xml:space="preserve">
-    <value>Choose Time</value>
+    <value>Zaman Seçimi</value>
   </data>
   <data name="TimePickerTimeText" xml:space="preserve">
-    <value>Time</value>
+    <value>Zaman</value>
   </data>
   <data name="PageSettingsExpandOnSiteMapLabel" xml:space="preserve">
     <value>Site haritasında genişlet?</value>
   </data>
   <data name="UnitsSold" xml:space="preserve">
-    <value>Units</value>
+    <value>Birimler</value>
   </data>
   <data name="UnSavedChangesPrompt" xml:space="preserve">
-    <value>You have un-saved changes, are you sure you want to leave this page without saving?</value>
+    <value>Kaydedilmemiş değişiklikleriniz var, kaydetmeden bu sayfadan ayrılmak istediğinizden emin misiniz??</value>
   </data>
   <data name="SkinCountJsFormat" xml:space="preserve">
     <value>Skin: {current}/{total}</value>
   </data>
   <data name="MobileSkinLink" xml:space="preserve">
-    <value>Mobile View</value>
+    <value>Mobil Görünüm</value>
   </data>
   <data name="NonMobileLink" xml:space="preserve">
-    <value>Non-Mobile View</value>
+    <value>Masaüstü Görünüm</value>
   </data>
   <data name="GoBackDownLabel" xml:space="preserve">
     <value>Go Back Down</value>
@@ -5420,49 +5423,49 @@
     <value>Go Up</value>
   </data>
   <data name="All" xml:space="preserve">
-    <value>All</value>
+    <value>Tümü</value>
   </data>
   <data name="MobileOnly" xml:space="preserve">
-    <value>Mobile Only</value>
+    <value>Yanlızca Mobil</value>
   </data>
   <data name="MobileSkin" xml:space="preserve">
-    <value>Mobile Skin</value>
+    <value>Mobil Skin</value>
   </data>
   <data name="PublishMode" xml:space="preserve">
     <value>Yayın Modu</value>
   </data>
   <data name="WebOnly" xml:space="preserve">
-    <value>Web Only</value>
+    <value>Yanlızca Web</value>
   </data>
   <data name="FileSystemFolderLimitReached" xml:space="preserve">
     <value>Your permissions don't allow you to create any more folders.</value>
   </data>
   <data name="TwitterFollowFormat" xml:space="preserve">
-    <value>Follow {0}</value>
+    <value>Takip {0}</value>
   </data>
   <data name="SiteClosedMessageEditLink" xml:space="preserve">
-    <value>Edit Closed Message</value>
+    <value>Site Kapalı Mesajını Düzenle</value>
   </data>
   <data name="SiteClosedMessageLabel" xml:space="preserve">
-    <value>Site Closed Message</value>
+    <value>Site Kapalı Mesajı</value>
   </data>
   <data name="SiteClosedPageTitle" xml:space="preserve">
-    <value>Temporarily Closed</value>
+    <value>Geçici olarak kapanmıştır</value>
   </data>
   <data name="SiteIsClosed" xml:space="preserve">
-    <value>Site Is Closed?</value>
+    <value>Site Kapalı?</value>
   </data>
   <data name="FileSystemFileCountQuotaReachedError" xml:space="preserve">
-    <value>Sorry, you've already reached the quota of allowed number of upload files allowed by configuration.</value>
+    <value>Üzgünüz, konfigürasyon tarafından izin verilen yükleme dosyası kotasına zaten ulaştınız.</value>
   </data>
   <data name="FileSystemFileTooLargeError" xml:space="preserve">
-    <value>Sorry, the file you are trying to upload is larger than allowed by configuration.</value>
+    <value>Üzgünüz, yüklemeye çalıştığınız dosya, konfigürasyon tarafından izin verilenden daha büyük.</value>
   </data>
   <data name="FileSystemStorageQuotaError" xml:space="preserve">
-    <value>Sorry you've reached the quoate of upload storage allowed by configuraiton.</value>
+    <value>konfigürasyon tarafından izin verilen yükleme depolama kotasına ulaştınız..</value>
   </data>
   <data name="AllowPersistentLogin" xml:space="preserve">
-    <value>Allow Persistent Authentication Cookie?</value>
+    <value>Kalıcı Kimlik Doğrulama Çerezine İzin Ver?</value>
   </data>
   <data name="ResetSkinVersionGuid" xml:space="preserve">
     <value>Reset Skin Version Guid</value>
@@ -5504,7 +5507,7 @@
     <value>You can unsubscribe by clicking the link in your email copy of this letter.</value>
   </data>
   <data name="AdminsOnly" xml:space="preserve">
-    <value>Only Administrators are allowed.</value>
+    <value>Yalnızca Yöneticilere izin verilir.</value>
   </data>
   <data name="ManagePermissionsFormat" xml:space="preserve">
     <value>Manage Permissions for {0}</value>
@@ -5519,7 +5522,7 @@
     <value>Edit Permissions for Page: {0}</value>
   </data>
   <data name="PagePermissionsLink" xml:space="preserve">
-    <value>Manage Page Permissions</value>
+    <value>Sayfa İzinlerini Yönetin</value>
   </data>
   <data name="PageViewPermissionsFormat" xml:space="preserve">
     <value>View Permissions for Page: {0}</value>
@@ -5531,10 +5534,10 @@
     <value>Edit ONLY as Draft Permissions for Content: {0}</value>
   </data>
   <data name="ModuleEditPermissionsFormat" xml:space="preserve">
-    <value>Edit Permissions for Content: {0}</value>
+    <value>İçerik İzinlerini Düzenleme: {0}</value>
   </data>
   <data name="ModuleViewPermissionsFormat" xml:space="preserve">
-    <value>View Permissions for Content: {0}</value>
+    <value>İçerik İzinlerini Görüntüle: {0}</value>
   </data>
   <data name="UseWysiwygEditor" xml:space="preserve">
     <value>Use WYSIWYG Editor?</value>
@@ -5546,25 +5549,25 @@
     <value>Country</value>
   </data>
   <data name="Fax" xml:space="preserve">
-    <value>Fax</value>
+    <value>Faks</value>
   </data>
   <data name="Locality" xml:space="preserve">
-    <value>Locality/City</value>
+    <value>Yer / Şehir</value>
   </data>
   <data name="Phone" xml:space="preserve">
-    <value>Phone</value>
+    <value>Telefon</value>
   </data>
   <data name="PostalCode" xml:space="preserve">
-    <value>Postal Code</value>
+    <value>Posta Kodu</value>
   </data>
   <data name="PublicEmail" xml:space="preserve">
-    <value>Public Email</value>
+    <value>Genel E-posta</value>
   </data>
   <data name="Region" xml:space="preserve">
-    <value>Region/State</value>
+    <value>Bölge / Eyalet</value>
   </data>
   <data name="StreetAddress" xml:space="preserve">
-    <value>Street Address</value>
+    <value>Sokak adresi</value>
   </data>
   <data name="AllowDbFallbackWithLdap" xml:space="preserve">
     <value>Allow Fallback to Database Authentication?</value>
@@ -5576,13 +5579,13 @@
     <value>View/Edit {0} Members</value>
   </data>
   <data name="ManageUserRoles" xml:space="preserve">
-    <value>Manage User Roles</value>
+    <value>Kullanıcı Rollerini Yönetin</value>
   </data>
   <data name="LoginPageBottomContent" xml:space="preserve">
     <value>Login Page Bottom Content</value>
   </data>
   <data name="LoginPageContent" xml:space="preserve">
-    <value>Login Page Content</value>
+    <value>Oturum Açma Sayfası İçeriği</value>
   </data>
   <data name="LoginPageTopContent" xml:space="preserve">
     <value>Login Page Top Content</value>
@@ -5591,13 +5594,13 @@
     <value>Content for Page: {0}</value>
   </data>
   <data name="SettingsForPageFormat" xml:space="preserve">
-    <value>Settings for Page: {0}</value>
+    <value>{0} Sayfası Ayarları </value>
   </data>
   <data name="ContentAwaitingApprovalFormat" xml:space="preserve">
-    <value>{0} - Content Changes Awaiting Approval</value>
+    <value>{0} - Onay Bekleyen İçerik Değişiklikleri</value>
   </data>
   <data name="ContentRejectedFormat" xml:space="preserve">
-    <value>{0} - Content Changes Rejected</value>
+    <value>{0} - Reddedilen İçerik Değişiklikleri</value>
   </data>
   <data name="DraftFormat" xml:space="preserve">
     <value>{0} - Draft</value>
@@ -5609,7 +5612,7 @@
     <value>Permissions for: {0}</value>
   </data>
   <data name="ExportDataAsCSV" xml:space="preserve">
-    <value>Export Data as CSV</value>
+    <value>Verileri CSV Olarak Dışa Aktar</value>
   </data>
   <data name="MemberListNameFormat" xml:space="preserve">
     <value>{0}, {1}</value>
@@ -5618,34 +5621,34 @@
     <value>Name</value>
   </data>
   <data name="CreatedByUserDateFormat" xml:space="preserve">
-    <value>Created {0} by {1}</value>
+    <value> {0} tarafından {1} Oluşturuldu</value>
   </data>
   <data name="CreatedByUserFormat" xml:space="preserve">
-    <value>Created by {0}</value>
+    <value>{0} tarafından Oluşturuldu</value>
   </data>
   <data name="CreatedDateFormat" xml:space="preserve">
-    <value>Created {0}</value>
+    <value>Oluşturuldu {0}</value>
   </data>
   <data name="ModifiedByUserDateFormat" xml:space="preserve">
-    <value>Modified {0} by {1}</value>
+    <value> {0} - {1} Değiştirildi</value>
   </data>
   <data name="ModifiedByUserFormat" xml:space="preserve">
     <value>Modified by {0}</value>
   </data>
   <data name="ModifiedDateFormat" xml:space="preserve">
-    <value>Modified {0}</value>
+    <value>Değiştirildi {0}</value>
   </data>
   <data name="ShowCreatedBy" xml:space="preserve">
-    <value>Show Created By?</value>
+    <value>Oluşturanı Göster?</value>
   </data>
   <data name="ShowCreatedDate" xml:space="preserve">
-    <value>Show Created Date?</value>
+    <value>Oluşturulma Tarihi Göster?</value>
   </data>
   <data name="ShowModifiedBy" xml:space="preserve">
-    <value>Show Modified By?</value>
+    <value>Değiştirenleri Göster?</value>
   </data>
   <data name="ShowModifiedDate" xml:space="preserve">
-    <value>Show Modified Date?</value>
+    <value>Değiştirme tarihini göster?</value>
   </data>
   <data name="CommentSystemFacebook" xml:space="preserve">
     <value>Facebook Comments</value>
@@ -5653,4 +5656,5 @@
   <data name="FacebookAppId" xml:space="preserve">
     <value>Facebook App ID</value>
   </data>
+
 </root>
