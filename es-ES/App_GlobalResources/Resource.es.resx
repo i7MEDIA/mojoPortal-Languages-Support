@@ -5835,4 +5835,7 @@
 	<data name="WorkflowRejected" xml:space="preserve">
 		<value>Este contenido fue rechazado por un editor. Por favor use el editor de contenido para revisar las observaciones.</value>
 	</data>
+	  <data name="ExcludeFromRecentContent" xml:space="preserve">
+    <value>¿Excluir de la lista de contenido reciente?</value>
+  </data>
 </root>
